@@ -39,8 +39,8 @@ Each model contributes to the final decision based on a normalized weight derive
 #### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/QuAAAAA/ensemble.git
+cd ensemble
 ```
 
 #### 2. Prepare Input Files
