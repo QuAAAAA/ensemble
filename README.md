@@ -1,4 +1,4 @@
-# NYCU speech lab at SemEval-2026 Task 3: Ensemble Is All You Need
+# NYCU Speech Lab at SemEval-2026 Task 3: Heterogeneous Model Ensemble with Adaptive Weighted Voting for Dimensional Aspect Sentiment Quadruplet Extraction
 
 This repository contains the codebase accompanying the paper *NYCU speech lab at SemEval-2026 Task 3: Ensemble Is All You Need*. We introduce a robust ensemble method for Dimensional Aspect-Based Sentiment Analysis (DimABSA), combining predictions from diverse Large Language Models (LLMs) to enhance performance.
 
